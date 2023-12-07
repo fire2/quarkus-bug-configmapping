@@ -1,0 +1,10 @@
+markets:
+  config:
+    default:
+      timezone: Europe/Berlin
+      activeFrom: 2099-12-31T08:00
+      disabledFrom: 2099-12-31T08:00
+    de:
+      timezone: Europe/Berlin
+      activeFrom: 2023-01-01T08:00
+      disabledFrom: 2099-12-31T08:00
